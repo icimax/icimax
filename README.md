@@ -9,3 +9,5 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Paxo
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
