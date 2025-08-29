@@ -1,13 +1,17 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="45%" valign="center">
 
-<div>
-  <img  href='https://github-readme-streak-stats.herokuapp.com/?user=iamsupermax&theme=tokyonight&hide_border=false'>
-</div>
-<!--
-**iamsupermax/iamsupermax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About myself
+- self-taught programer
+- 3+ years of experience
+- French Student at [Epita](https://www.epita.fr/en/) (2030)
 
-Here are some ideas to get you started: -->
+</td>
+<td width="55%" valign="center">
 
-- 🔭 I’m currently working on Paxo
+![icimax's GitHub stats](https://github-readme-stats.vercel.app/api?username=icimax&show_icons=true&hide_border=false&bg_color=000000&title_color=00d4ff&text_color=abd9ff&icon_color=ff8c00&ring_color=00d4ff)
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+</td>
+</tr>
+</table>
