@@ -1,5 +1,5 @@
 ### About myself
-<table style="border: none">
+<table style="border: none;">
   <tr>
     <td align="left" width="50%">
       <ul>
