@@ -8,7 +8,7 @@
      </ul>
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=icimax&layout=compact" alt="Top Langs" />
   </div>
-  <div align="right" style="flex: 1>
+  <div align="right" style="flex: 1">
     <img src="koi/koi.gif" alt="Git-Koi" />
   </div>
 </div>
