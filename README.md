@@ -1,7 +1,7 @@
 ### About myself
-<table style="border: none;">
+<table border="0" style="border: none; width: 100%;">
   <tr>
-    <td align="left" width="50%">
+    <td align="left" width="50%" style="border: none; background: transparent;">      
       <ul>
         <li>Self-taught programmer</li>
         <li>4+ years of experience</li>
